@@ -1,5 +1,6 @@
 # 【攻与守】—— 一场代号为“鸡笑屁股”的压测专项行动
-> 注意！此版本为 AI润色调整排板，如需宝哥手作版本，请查看 [https://github.com/yapand/jxpg/edit/main/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF/%E6%A6%82%E8%BF%B0-](https://github.com/yapand/jxpg/blob/main/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF/%E6%A6%82%E8%BF%B0-%E5%8E%9F%E7%89%88) 
+> 注意！此版本为 AI润色调整排板，如需宝哥手作版本，请查看 [https://github.com/yapand/jxpg/edit/main/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF/%E6%A6%82%E8%BF%B0-](https://github.com/yapand/jxpg/blob/main/%E6%95%85%E4%BA%8B%E8%83%8C%E6%99%AF/%E6%A6%82%E8%BF%B0-%E5%8E%9F%E7%89%88)
+>  
 > 出自宝哥的连环小故事 · 背景设定文档  
 > 地点：渔村 · 寿比山 · 林大寺 · 反洗脑分寺  
 > 时间：一个最好的年代  
